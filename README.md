@@ -13,3 +13,4 @@ Additional monthly 'savings' figures are calculated for the best candidate plans
 For these calculations, the additional discounts applicable to that suppier are calculated with comparisons with and without dual fuel options.  Mixed suppliers may be the best option.
 Again, the actual tariffs for your location and any discounts which you wish to use should be added to the appropriate cells of the spreadsheet.
 All tariff data is subject to change.  Price increases can occur at any time and items such as line charges may increase despite 'fixed' price contracts.
+This spreadsheet was created in LibreOffice 6.2.0.3.
